@@ -8,10 +8,4 @@ public class Class1 {
 		return exists;
 	}
 
-	public void setExists(boolean exists) {
-		this.exists = exists;
-	}
-	
-	
-
 }
