@@ -8,4 +8,17 @@ public class Class1 {
 		return exists;
 	}
 
+	public String getStr() {
+		return str;
+	}
+
+	public void setStr(String str) {
+		this.str = str;
+	}
+
+	public void setExists(boolean exists) {
+		this.exists = exists;
+	}
+
+	
 }
