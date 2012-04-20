@@ -1,5 +1,6 @@
 
 public class Class4 {
 
-	private boolean i1;
+	private boolean i2;
+
 }
