@@ -4,6 +4,8 @@ public class Class1 {
 	
 	private String str;
 
+	private String str2;
+	
 	public boolean isExists() {
 		return exists;
 	}
