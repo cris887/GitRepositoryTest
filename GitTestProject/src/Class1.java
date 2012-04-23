@@ -22,9 +22,5 @@ public class Class1 {
 		this.exists = exists;
 	}
 
-	public String getStr2() {
-		return str2;
-	}
-
 	
 }
