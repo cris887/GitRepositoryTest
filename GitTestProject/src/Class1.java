@@ -6,6 +6,8 @@ public class Class1 {
 
 	private String str2;
 	
+	private String str3;
+	
 	public boolean isExists() {
 		return exists;
 	}
@@ -20,6 +22,14 @@ public class Class1 {
 
 	public void setExists(boolean exists) {
 		this.exists = exists;
+	}
+
+	public String getStr2() {
+		return str2;
+	}
+
+	public void setStr2(String str2) {
+		this.str2 = str2;
 	}
 
 	
