@@ -22,5 +22,13 @@ public class Class1 {
 		this.exists = exists;
 	}
 
+	public String getStr2() {
+		return str2;
+	}
+
+	public void setStr2(String str2) {
+		this.str2 = str2;
+	}
+
 	
 }
