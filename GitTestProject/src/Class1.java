@@ -6,7 +6,7 @@ public class Class1 {
 
 	private String str2;
 	
-	private String str3;
+	private String str31;
 	
-	
+
 }
