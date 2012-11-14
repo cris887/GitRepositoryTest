@@ -2,7 +2,8 @@ public class Class1111 {
 
 	private boolean exists;
 	
-	private String str;
+	private String str
+	;
 
 	public boolean isExists() {
 		return exists;
